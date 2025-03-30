@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/franek/Documents/stm32_cubemx/stm32f446re/stm32_cubemx_clean/build/cmake_install.cmake",
+		"/home/franek/Documents/stm32_cubemx/stm32f446re/stm32_cubemx_clean/build/cmake/stm32cubemx/cmake_install.cmake",
+		"/home/franek/Documents/stm32_cubemx/stm32f446re/stm32_cubemx_clean/build/app/main/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

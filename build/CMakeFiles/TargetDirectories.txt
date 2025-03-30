@@ -1,0 +1,7 @@
+/home/franek/Documents/stm32_cubemx/stm32f446re/stm32_cubemx_clean/build/CMakeFiles/edit_cache.dir
+/home/franek/Documents/stm32_cubemx/stm32f446re/stm32_cubemx_clean/build/CMakeFiles/rebuild_cache.dir
+/home/franek/Documents/stm32_cubemx/stm32f446re/stm32_cubemx_clean/build/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/home/franek/Documents/stm32_cubemx/stm32f446re/stm32_cubemx_clean/build/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
+/home/franek/Documents/stm32_cubemx/stm32f446re/stm32_cubemx_clean/build/app/main/CMakeFiles/app.dir
+/home/franek/Documents/stm32_cubemx/stm32f446re/stm32_cubemx_clean/build/app/main/CMakeFiles/edit_cache.dir
+/home/franek/Documents/stm32_cubemx/stm32f446re/stm32_cubemx_clean/build/app/main/CMakeFiles/rebuild_cache.dir
